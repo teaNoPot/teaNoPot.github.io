@@ -14,12 +14,12 @@ It feels as though moving from one idea to the next is a getaway. Whenever I've 
 
 > My attention to something easily dwindles whenever I become *unsatisfied* with the learning process.
 
-But I have come to accept this, and I will work slowly to guiding myself to finished them. The projects.
+But I have come to accept this, and I will work slowly to guiding myself to finishing them. The projects. 
+
+### My current solution to the damn motivation
 
 - Start manageable projects or *break* complicated existing ones.
 - It's okay to have many ambitious goals.
-
-### My current solution to the damn motivation
 
 As with anything in life, part of solving a problem is identifying it correctly.
 
