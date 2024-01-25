@@ -8,7 +8,7 @@ tags: [motivation]
 
 Let's tackle one of my biggest issues :
 
-#### Getting the motivation to finish non started/finished projects
+### Getting the motivation to finish non started/finished projects
 
 It feels as though moving from one idea to the next is a getaway. Whenever I've found difficulties, I ran away and justified it by finding a *better* looking project.
 
@@ -19,7 +19,7 @@ But I have come to accept this, and I will work slowly to guiding myself to fini
 - Start manageable projects or *break* complicated existing ones.
 - It's okay to have many ambitious goals.
 
-#### My current solution to the damn motivation
+### My current solution to the damn motivation
 
 As with anything in life, part of solving a problem is identifying it correctly.
 
@@ -57,7 +57,7 @@ To finish a project is not to answer my questions, my identity. Rather to finish
 
 My identity is not only shaped by my consciousness, but by the interaction between present points. The present creates past and inferes a future, and that relationship is all made possible by the small finished of the present.
 
-#### Conclusion (Finish)
+### Conclusion (Finish)
 
 We will all take a different approach to resolving creative/non creative projects, but the same methods will be used : Looking at the project from the present lens means we need manageable chunks for that present.
 
