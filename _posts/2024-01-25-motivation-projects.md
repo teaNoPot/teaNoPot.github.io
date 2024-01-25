@@ -59,7 +59,7 @@ My identity is not only shaped by my consciousness, but by the interaction betwe
 
 #### Conclusion (Finish)
 
-We will all take a different approach to resolving creative/non creatuve projects, but the same methods will be used : Looking at the project from the present lens means we need manageable chunks for that present.
+We will all take a different approach to resolving creative/non creative projects, but the same methods will be used : Looking at the project from the present lens means we need manageable chunks for that present.
 
 Motivation comes by itself when I realize the payoff for the current project. 
 
